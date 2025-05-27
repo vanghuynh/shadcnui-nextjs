@@ -16,6 +16,7 @@ export default function VangIntro() {
         Whether you&#39;re working solo or as part of a team, Vang provides the
         tools you need to stay organized and focused on what matters most.
       </p>
+      <p>Add more information here</p>
     </div>
   );
 }
